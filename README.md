@@ -2,7 +2,7 @@
 
 I'm Sergi, I'm a C# developer specilalized in XR. You can usually find me doing stuff on Unity but eventually you will also see me working on C++ or Unreal.
 
-I work at HP doing VR and helping other developers that are willing to join us!
+I work at HP doing VR and helping other developers that are willing to join us! [You also can watch my coworker and I do some unity VR](https://www.youtube.com/watch?v=iRIKdSM3oTA&ab_channel=CircuitStream)
 
 In my free time, I try to diy projects despite they don't always go as planned. My dog 🐶 takes the other part of my free time as we go outdoors to explore nearvy mountains.
 
